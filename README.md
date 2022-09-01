@@ -16,6 +16,10 @@ https://colab.research.google.com/drive/1ZnTeUiDS7SgXds7vje1X14qqIpuqjtCK?usp=sh
 
 Assignment 3 : Auto ML jadbio
 
+Youtube link: https://youtu.be/J_YD0S59lEA
+
+
+
 
 
 
